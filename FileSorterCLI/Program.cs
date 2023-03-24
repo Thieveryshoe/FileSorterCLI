@@ -5,4 +5,5 @@ var container = Bootstrapper.Bootstrap();
 
 var app = container.GetInstance<IApp>();
 
-app.Execute();
+// TODO args to Options class
+app.Execute(args[0], args[1]);

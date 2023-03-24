@@ -1,5 +1,5 @@
 using FileSorterCLILib;
-using FileSorterCLILib.Models;
+using FileTool;
 using Moq;
 
 namespace FileSorterCLITests;

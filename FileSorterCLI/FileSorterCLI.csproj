@@ -8,11 +8,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Lamar" Version="10.0.1"/>
+        <PackageReference Include="FileToolProject" Version="1.1.0" />
+        <PackageReference Include="Lamar" Version="10.0.1" />
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\FileSorterCLILib\FileSorterCLILib.csproj"/>
+        <ProjectReference Include="..\FileSorterCLILib\FileSorterCLILib.csproj" />
     </ItemGroup>
 
 </Project>
